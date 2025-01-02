@@ -33,17 +33,18 @@ With over **10 years of experience as an SDET**, I specialize in driving quality
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saddam-Hussain&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam-Hussain&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&theme=dark)  
 
 ---
 
 ## 🌟 Let's Connect!  
 
 📩 **Email:** saddam.jobs.career@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossain-mdsaddam/)  
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://yourportfolio.com/)  
-
+-->
 ---
 
 ## 🔨 Featured Projects  
