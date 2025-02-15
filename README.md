@@ -49,11 +49,11 @@ With over **10 years of experience as an SDET**, I specialize in driving quality
 
 ## 🔨 Featured Projects  
 
-- **[Automation Framework for Web Testing](https://github.com/YourUsername/WebTestingFramework)**  
+- **[Automation Framework for Web Testing](https://github.com/shossain786/WebTestingFramework)**  
   - Designed a robust, scalable test automation framework using **Selenium WebDriver** and **Java**.  
   - Integrated with **CI/CD pipelines** to optimize the delivery process.  
 
-- **[API Testing Framework](https://github.com/YourUsername/APITestingFramework)**  
+- **[API Testing Framework](https://github.com/shossain786/APITestingFramework)**  
   - Developed a comprehensive API testing framework using **Rest Assured** and **TestNG**.  
   - Enhanced test coverage and execution speed through data-driven testing.
 <!--
