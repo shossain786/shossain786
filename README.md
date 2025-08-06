@@ -1,72 +1,70 @@
-## Hi, I'm Saddam Hussain 👋
+## Hi, I'm Saddam Hussain ✨
 ![](https://komarev.com/ghpvc/?username=shossain786)
 
-
-🚀 **Senior SDET | Automation Framework Specialist | Trainer in Test Automation**  
-
----
-
-## 🧑‍💻 About Me  
-
-With over **10 years of experience as an SDET**, I specialize in driving quality assurance through **robust and scalable automation frameworks**. My expertise lies in ensuring flawless software delivery, collaborating on projects, and staying at the forefront of modern testing trends.  
-
-### Current Role  
-- 🏢 **Senior SDET** at **E2Open**  
-- 🛠 Building **scalable automation frameworks** and **efficient test scripts** using tools and technologies like:  
-  - **Selenium WebDriver**, **Cucumber**, **TestNG**, **Maven**, and **JUnit**.  
-  - **API testing** with **Rest Assured**.  
-
-### Expertise  
-- 🚀 **Integrating Automation into CI/CD Pipelines:** Hands-on with **Jenkins** to accelerate releases and deliver high-quality software.  
-- 🌀 **Agile Testing:** Experienced in tools like **JIRA** and Agile methodologies.  
-- 📊 **Framework Design:** Specializing in **data-driven** and **hybrid frameworks** to optimize test coverage and enhance performance.  
+🚀 **Senior SDET | Automation Architect | AI/ML Explorer | Technical Mentor**
 
 ---
 
-## 💡 What I’m Passionate About  
+## 🧑‍💻 About Me
 
-- Building **web and mobile apps** with cutting-edge technologies.  
-- Collaborating on projects to solve complex problems.  
-- Sharing knowledge as a **trainer in test automation**.  
+With over **11 years of experience** in **Software Development & Test Automation**, I craft robust and scalable test automation frameworks to ensure flawless, secure, and efficient software releases.
+
+### 🏢 Current Role
+- 🏢 **Senior SDET** at **E2Open**
+- 🛠️ Leading initiatives for:  
+  ✔ Selenium WebDriver, Cucumber, TestNG, JUnit, Maven  
+  ✔ API Testing with Rest Assured  
+  ✔ Framework architecture design (Hybrid/Data-Driven/BDD)  
+  ✔ CI/CD Integration with Jenkins  
+
+### 🔍 Expertise
+- ✨ **Automation Strategy & Framework Design**
+- 🌀 Agile QA using tools like JIRA, TestRail
+- 🧪 Continuous Testing with GitHub Actions & Jenkins
+- 🎨 Test Optimization, Debugging, Code Review
 
 ---
 
-## 📊 GitHub Stats  
+## 💡 What I'm Passionate About
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&theme=dark)  
+- 🚀 Building modern automation ecosystems
+- 📚 Training & mentoring on Test Automation best practices
+- 😎 Exploring **ML/AI** tools & integrating smart testing solutions
+- 📈 Scaling automation in real-time delivery pipelines
 
 ---
 
-## 🌟 Let's Connect!  
+## 📊 GitHub Stats
 
-📩 **Email:** saddam.jobs.career@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossain-mdsaddam/)  
+[![Saddam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&count_private=true)](https://github.com/shossain786)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&langs_count=6&theme=radical)
+
+> 🔐 _Note: Some contributions are from private repos & orgs like PanjatanCoders_
+
+---
+
+## 🌐 Let's Connect
+
+- 📧 **Email:** saddam.jobs.career@gmail.com  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossain-mdsaddam/)
+
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://yourportfolio.com/)  
 -->
+
 ---
 
-## 🔨 Featured Projects  
+## 🔧 Featured Projects
 
-- **[Automation Framework for Web Testing](https://github.com/shossain786/WebTestingFramework)**  
-  - Designed a robust, scalable test automation framework using **Selenium WebDriver** and **Java**.  
-  - Integrated with **CI/CD pipelines** to optimize the delivery process.  
+### 📊 [Web Automation Framework](https://github.com/shossain786/WebTestingFramework)
+- Scalable hybrid framework using **Selenium**, **Java**, **Cucumber**
+- Integrated with **CI/CD**, supports data-driven testing
 
-- **[API Testing Framework](https://github.com/shossain786/APITestingFramework)**  
-  - Developed a comprehensive API testing framework using **Rest Assured** and **TestNG**.  
-  - Enhanced test coverage and execution speed through data-driven testing.
+### 📉 [API Automation Framework](https://github.com/shossain786/APITestingFramework)
+- Built using **Rest Assured** & **TestNG**
+- Highly modular, clean test structure & reusable components
+
 <!--
-**shossain786/shossain786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**shossain786/shossain786** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
