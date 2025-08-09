@@ -36,8 +36,6 @@ With over **11 years of experience** in **Software Development & Test Automation
 
 ## 📊 GitHub Stats
 
-[![Saddam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&count_private=true)](https://github.com/shossain786)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&langs_count=6&theme=radical)
 
 > 🔐 _Note: Some contributions are from private repos & orgs like PanjatanCoders_
