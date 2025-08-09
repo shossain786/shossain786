@@ -44,25 +44,15 @@ With over **11 years of experience** in **Software Development & Test Automation
 
 ## 🌐 Let's Connect
 
-- 📧 **Email:** saddam.jobs.career@gmail.com  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hossain-mdsaddam/)
-
+- 📧 **Email:** saddam.jobs.career@gmail.com
+- 💻 [Blog – GitHub](https://shossain786.github.io/)
+- 💼 [LinkedIn – Saddam Hussain](https://www.linkedin.com/in/hossain-mdsaddam/)
+- 🚀 [GitHub – Panjatan Coders](https://github.com/PanjatanCoders)
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://yourportfolio.com/)  
 -->
 
 ---
-
-## 🔧 Featured Projects
-
-### 📊 [Web Automation Framework](https://github.com/shossain786/WebTestingFramework)
-- Scalable hybrid framework using **Selenium**, **Java**, **Cucumber**
-- Integrated with **CI/CD**, supports data-driven testing
-
-### 📉 [API Automation Framework](https://github.com/shossain786/APITestingFramework)
-- Built using **Rest Assured** & **TestNG**
-- Highly modular, clean test structure & reusable components
-
 <!--
 **shossain786/shossain786** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
