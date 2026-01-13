@@ -64,6 +64,8 @@ Specializations:       Framework Design | Test Strategy | Performance Testing | 
 
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -71,19 +73,69 @@ Specializations:       Framework Design | Test Strategy | Performance Testing | 
 
 ---
 
+## 🚀 Featured Projects & Products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Pramana Studio
+**The Ultimate Test Data Generator for QA & Testing**
+
+Smart form filling, intelligent locator capture with health monitoring, and advanced test recording with script generation.
+
+**Key Features:**
+- Test Recording
+- Locator Capture & Health
+- Side Panel Mode
+- Smart Form Filling
+
+🔗 [Learn More](https://pramanastudio.netlify.app/) 
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Pramana Context
+**Remember Why You Opened It**
+
+**Pramana Context** is a powerful productivity extension that helps you track and remember the purpose behind every webpage you visit. Perfect for researchers, developers, students, and anyone managing multiple tasks across dozens of tabs.
+
+**Available On:**
+- [![Chrome](https://chromewebstore.google.com/detail/pramana-context-tab-inten/fhedgpglmjoanoacojlnhccbhodigmnn?hl=en-US&utm_source=ext_sidebar)
+- [![Edge](https://microsoftedge.microsoft.com/addons/detail/pramana-context-tab-int/hhhfhainphmhccemgfbflamoeefnbhgm?hl=en-USs)
+
+**Features:**
+- Add Tags: Type a tag and press Enter in the popup
+- Tag Suggestions: Automatically suggests up to 5 previously used tags
+- Remove Tags: Click the × button on any tag to remove it
+- Backspace Support: Press Backspace in empty tag input to remove the last tag
+- Display Everywhere: Tags appear in both popup and search/memory page
+- Smart Storage: Tags saved with each context and persist across sessions
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&langs_count=8&theme=radical"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?integrationusername=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&langs_count=8&theme=radical&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shossain786&theme=radical" alt="GitHub Streak Stats" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shossain786&theme=radical&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shossain786&theme=redical&hide_border=true" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shossain786&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
 > 📌 *Note: Statistics include contributions from private repositories and organizational work with [PanjatanCoders](https://github.com/PanjatanCoders)*
@@ -100,8 +152,10 @@ Specializations:       Framework Design | Test Strategy | Performance Testing | 
 
 - 🎯 **11+ Years** of Industry Experience in QA & Test Automation
 - 🏗️ Architected **10+ Enterprise-Grade** Automation Frameworks
+- 🚀 Created **Pramana Studio** - Revolutionary Test Automation Platform
+- 🧩 Developed **Pramana Context** - AI-Powered Browser Extension (Chrome & Edge)
 - 👨‍🏫 Mentored **50+ QA Engineers** on Automation Best Practices
-- 🚀 Reduced Test Execution Time by **70%** through Optimization
+- ⚡ Reduced Test Execution Time by **70%** through Optimization
 - 📈 Increased Test Coverage from **40% to 90%** in Legacy Systems
 - 🔄 Successfully Integrated **CI/CD Pipelines** in 15+ Projects
 
