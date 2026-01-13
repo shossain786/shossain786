@@ -80,7 +80,7 @@ Specializations:       Framework Design | Test Strategy | Performance Testing | 
 <td width="50%" valign="top">
 
 ### 🎯 Pramana Studio
-**The Ultimate Test Data Generator for QA & Testing**
+**Complete Test Automation Toolkit**
 
 Smart form filling, intelligent locator capture with health monitoring, and advanced test recording with script generation.
 
