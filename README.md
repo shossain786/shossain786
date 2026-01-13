@@ -121,14 +121,14 @@ Smart form filling, intelligent locator capture with health monitoring, and adva
 
 <div align="center">
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?integrationusername=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&langs_count=8&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&langs_count=8&theme=radical&hide_border=true)
 
 </div>
 
 <div align="center">
 
-[GitHub Streak](https://streak-stats.demolab.com/?user=shossain786&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shossain786&theme=radical&hide_border=true)
 
 </div>
 
