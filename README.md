@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Saddam Hussain 👋
+# Hi there, I'm Saddam Hossain 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+SDET+%7C+11%2B+Years+Experience;Automation+Architect+%7C+Framework+Designer;AI%2FML+Explorer+%7C+Technical+Mentor;Building+Robust+Test+Ecosystems)](https://git.io/typing-svg)
 
