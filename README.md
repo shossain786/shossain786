@@ -120,23 +120,15 @@ Smart form filling, intelligent locator capture with health monitoring, and adva
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/shossain786)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&theme=radical&langs_count=8)](https://github.com/shossain786)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shossain786&theme=radical)](https://github.com/shossain786)
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shossain786&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shossain786&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
-> 📌 *Note: Statistics include contributions from private repositories and organizational work with [PanjatanCoders](https://github.com/PanjatanCoders)*
+> 📌 *Note: If stats don't load immediately, please refresh the page. Statistics include contributions from private repositories and organizational work with [PanjatanCoders](https://github.com/PanjatanCoders)*
 
 ---
 
