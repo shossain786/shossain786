@@ -121,33 +121,44 @@ Smart form filling, intelligent locator capture with health monitoring, and adva
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/shossain786)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&theme=radical&langs_count=8)](https://github.com/shossain786)
+![](https://github-readme-stats.vercel.app/api?username=shossain786&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shossain786&theme=radical)](https://github.com/shossain786)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shossain786&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shossain786&theme=radical)
 
 </div>
 
-> 📌 *Note: If stats don't load immediately, please refresh the page. Statistics include contributions from private repositories and organizational work with [PanjatanCoders](https://github.com/PanjatanCoders)*
+> 📌 *Note: Statistics include contributions from private repositories and organizational work with [PanjatanCoders](https://github.com/PanjatanCoders)*
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shossain786&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 💼 Professional Impact
+- 🎯 **11+ Years** of Industry Experience
+- 🏗️ **10+ Enterprise Frameworks** Architected
+- ⚡ **70% Faster** Test Execution
+- 📈 **40% → 90%** Test Coverage Improvement
+- 🔄 **15+ CI/CD** Pipeline Integrations
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-- 🎯 **11+ Years** of Industry Experience in QA & Test Automation
-- 🏗️ Architected **10+ Enterprise-Grade** Automation Frameworks
-- 🚀 Created **Pramana Studio** - Revolutionary Test Automation Platform
-- 🧩 Developed **Pramana Context** - AI-Powered Browser Extension (Chrome & Edge)
-- 👨‍🏫 Mentored **50+ QA Engineers** on Automation Best Practices
-- ⚡ Reduced Test Execution Time by **70%** through Optimization
-- 📈 Increased Test Coverage from **40% to 90%** in Legacy Systems
-- 🔄 Successfully Integrated **CI/CD Pipelines** in 15+ Projects
+### 🚀 Innovation & Leadership
+- 🎯 Created **Pramana Studio** Platform
+- 🧩 Built **Pramana Context** Extension
+- 👨‍🏫 Mentored **50+ QA Engineers**
+- 📚 Active Technical Blogger
+- 🌟 Open Source Contributor
+
+</td>
+</tr>
+</table>
 
 ---
 
