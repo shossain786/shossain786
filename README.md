@@ -101,8 +101,8 @@ Smart form filling, intelligent locator capture with health monitoring, and adva
 **Pramana Context** is a powerful productivity extension that helps you track and remember the purpose behind every webpage you visit. Perfect for researchers, developers, students, and anyone managing multiple tasks across dozens of tabs.
 
 **Available On:**
-- [![Chrome](https://chromewebstore.google.com/detail/pramana-context-tab-inten/fhedgpglmjoanoacojlnhccbhodigmnn?hl=en-US&utm_source=ext_sidebar)
-- [![Edge](https://microsoftedge.microsoft.com/addons/detail/pramana-context-tab-int/hhhfhainphmhccemgfbflamoeefnbhgm?hl=en-USs)
+- [Chrome](https://chromewebstore.google.com/detail/pramana-context-tab-inten/fhedgpglmjoanoacojlnhccbhodigmnn?hl=en-US&utm_source=ext_sidebar)
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/pramana-context-tab-int/hhhfhainphmhccemgfbflamoeefnbhgm?hl=en-USs)
 
 **Features:**
 - Add Tags: Type a tag and press Enter in the popup
