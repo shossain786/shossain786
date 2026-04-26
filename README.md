@@ -79,7 +79,7 @@ Specializations:       Framework Design | Test Strategy | Performance Testing | 
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Pramana Studio
+### 🎯 Locator Lab
 **Complete Test Automation Toolkit**
 
 Smart form filling, intelligent locator capture with health monitoring, and advanced test recording with script generation.
@@ -90,7 +90,7 @@ Smart form filling, intelligent locator capture with health monitoring, and adva
 - Side Panel Mode
 - Smart Form Filling
 
-🔗 [Learn More](https://pramanastudio.netlify.app/) 
+🔗 [Learn More](https://locator-lab.netlify.app/) 
 
 </td>
 <td width="50%" valign="top">
