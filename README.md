@@ -79,38 +79,66 @@ Specializations:       Framework Design | Test Strategy | Performance Testing | 
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Locator Lab
-**Complete Test Automation Toolkit**
+### ⚡ Selenium Boot
+**Opinionated Java Test Automation Framework**
 
-Smart form filling, intelligent locator capture with health monitoring, and advanced test recording with script generation.
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.seleniumboot/selenium-boot?color=blue&label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.seleniumboot/selenium-boot)
+[![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/seleniumboot/selenium-boot/blob/master/LICENSE)
+
+Spring Boot–inspired framework that eliminates WebDriver boilerplate. Add one dependency, extend `BaseTest`, write `@Test` methods — driver lifecycle, waits, retry, screenshots, and CI integration are handled automatically.
 
 **Key Features:**
-- Test Recording
-- Locator Capture & Health
-- Side Panel Mode
-- Smart Form Filling
+- 🔧 Zero-boilerplate driver lifecycle
+- 📄 YAML configuration with environment profiles
+- 🔁 Smart retry + Flakiness Prediction radar
+- 🧠 AI failure analysis (Claude integration)
+- 🩺 Self-healing locators
+- ☁️ BrowserStack & Sauce Labs built-in
+- 📧 Email verification (Mailhog, Mailtrap, Outlook, IMAP)
+- 🔒 Test quarantine via committed YAML file
+- 🥒 JUnit 5 · Cucumber · TestNG full support
 
-🔗 [Learn More](https://locator-lab.netlify.app/) 
+```xml
+<dependency>
+  <groupId>io.github.seleniumboot</groupId>
+  <artifactId>selenium-boot</artifactId>
+  <version>2.3.0</version>
+</dependency>
+```
+
+🔗 [GitHub](https://github.com/seleniumboot/selenium-boot) · [Docs](https://seleniumboot.github.io/selenium-boot/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Pramana Context
-**Remember Why You Opened It**
+### 🤖 seleniumboot-mcp
+**AI-Powered Browser Automation via MCP**
 
-**Pramana Context** is a powerful productivity extension that helps you track and remember the purpose behind every webpage you visit. Perfect for researchers, developers, students, and anyone managing multiple tasks across dozens of tabs.
+[![PyPI](https://img.shields.io/pypi/v/seleniumboot-mcp?color=blue)](https://pypi.org/project/seleniumboot-mcp/)
+[![Python](https://img.shields.io/pypi/pyversions/seleniumboot-mcp)](https://pypi.org/project/seleniumboot-mcp/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/seleniumboot/selenium-mcp/blob/master/LICENSE)
 
-**Available On:**
-- [Chrome](https://chromewebstore.google.com/detail/pramana-context-tab-inten/fhedgpglmjoanoacojlnhccbhodigmnn?hl=en-US&utm_source=ext_sidebar)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/pramana-context-tab-int/hhhfhainphmhccemgfbflamoeefnbhgm?hl=en-USs)
+A Python **Model Context Protocol** server that lets **Claude** or **GitHub Copilot** control a real browser — navigate pages, interact with elements, run assertions, and auto-generate complete **Java TestNG / JUnit 5 / Cucumber / pytest** test code from recorded sessions.
 
-**Features:**
-- Add Tags: Type a tag and press Enter in the popup
-- Tag Suggestions: Automatically suggests up to 5 previously used tags
-- Remove Tags: Click the × button on any tag to remove it
-- Backspace Support: Press Backspace in empty tag input to remove the last tag
-- Display Everywhere: Tags appear in both popup and search/memory page
-- Smart Storage: Tags saved with each context and persist across sessions
+**Key Features:**
+- 🛠️ **82 tools** — navigate, click, type, assert, screenshot, mock, accessibility audit
+- 🚀 Auto-starts Chrome — no ChromeDriver setup needed
+- 📝 Generates ready-to-run Java/Gherkin test code
+- 🧪 Visual regression, network mocking, device emulation
+- 🔍 Page inspector with best-fit CSS selector suggestions
+- 🌐 Works with Claude Desktop & VS Code MCP
+
+```bash
+pip install seleniumboot-mcp
+```
+
+```
+> Go to https://myapp.com, log in as admin, then
+  generate a TestNG test class for the login flow
+```
+
+🔗 [GitHub](https://github.com/seleniumboot/selenium-mcp) · [PyPI](https://pypi.org/project/seleniumboot-mcp/) · [▶ Demo](https://youtu.be/54LoY2HNLrs)
+
 </td>
 </tr>
 </table>
@@ -150,8 +178,8 @@ Smart form filling, intelligent locator capture with health monitoring, and adva
 <td width="50%" valign="top">
 
 ### 🚀 Innovation & Leadership
-- 🎯 Created **Pramana Studio** Platform
-- 🧩 Built **Pramana Context** Extension
+- ⚡ Built **Selenium Boot** — Maven Central framework
+- 🤖 Created **seleniumboot-mcp** — AI browser automation
 - 👨‍🏫 Mentored **50+ QA Engineers**
 - 📚 Active Technical Blogger
 - 🌟 Open Source Contributor
