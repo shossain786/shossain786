@@ -18,7 +18,7 @@
 
 > *Transforming Quality Assurance through Intelligent Automation*
 
-With **12+ years** of expertise in **Software Development & Test Automation**, I architect enterprise-grade automation frameworks that drive quality, speed, and reliability across the SDLC.
+I am expertise in **Software Development & Test Automation**, I architect enterprise-grade automation frameworks that drive quality, speed, and reliability across the SDLC.
 
 These days most of my energy goes into **[Selenium Boot](https://seleniumboot.com)** — an open-source Java framework and its surrounding ecosystem of IDE plugins, extensions, and AI tooling.
 
